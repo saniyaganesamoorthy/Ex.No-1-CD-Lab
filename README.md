@@ -82,8 +82,8 @@ return 0;
 ```
 
 ## OUTPUT:
+![385625134-c2bb2cfb-31b7-4e6d-b08f-adb7e69b1594](https://github.com/user-attachments/assets/f00c3430-3a42-446b-8002-2782c1057fa3)
 
-![Uploading 385625134-c2bb2cfb-31b7-4e6d-b08f-adb7e69b1594.png…]()
 
 ## RESULT:
 
