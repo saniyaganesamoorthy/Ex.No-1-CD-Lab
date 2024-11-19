@@ -83,8 +83,7 @@ return 0;
 
 ## OUTPUT:
 
-<img width="332" alt="cd-01" src="https://github.com/user-attachments/assets/5bbce5ea-0762-45b6-8318-6d81f1dba28b">
-
+![Uploading 385625134-c2bb2cfb-31b7-4e6d-b08f-adb7e69b1594.png…]()
 
 ## RESULT:
 
